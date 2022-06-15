@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/TAMMoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TAMMoura&bg_color=1,000000,FFFD07&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMMoura&layout=compact&langs_count=7&bg_color=1,FFFD07,000000&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TAMMoura&&bg_color=1,013a63,89c2d9&title_color=fff&text_color=fff& include_all_commits=true&count_private=true&show_icons=true&icon_color=f6de26"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMMoura&layout=compact&langs_count=7&bg_color=1,89c2d9,013a63&title_color=fff&text_color=fff"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
